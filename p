@@ -1,1 +1,1 @@
-v6v4.whiteproxies.com:8000:us-ny-rotate:7006fb4deeb521ea
+46.37.100.13:8080
